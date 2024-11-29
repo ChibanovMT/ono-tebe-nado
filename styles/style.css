@@ -220,8 +220,6 @@ a.card-link {
 }
 
 .card__text {
-  position: relative;
-  bottom: 0px;
   z-index: 2;
   margin: auto 40px 46px;
   color: #fff;
